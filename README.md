@@ -2,7 +2,7 @@
 
 ## Datos de la Entrega
 * **Materia:** Dispositivos Móviles
-* **Integrantes:** Gustavo Barzala y grupo
+* **Integrantes:** Gustavo Barzala y otros integrantes Fatinma Benitez y Lourdes Miranda
 
 ---
 
