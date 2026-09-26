@@ -1,7 +1,7 @@
-# salomongame # Salomon Games: Alquimia Elemental
+# Salomon Games: Alquimia Elemental
 
 ## Datos de la Entrega
-* **Materia:** Dispositivos Móviles
+* **Materia:** Desarrollo de Aplicaciones de Dispositivos Móviles
 * **Integrantes:** Gustavo Barzala y otros integrantes Fatinma Benitez y Lourdes Miranda
 
 ---
